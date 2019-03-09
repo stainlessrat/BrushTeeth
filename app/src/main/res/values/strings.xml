@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Чистим зубки</string>
+    <string name="text_message">Спасем зубки? Будем чистить зубки? Приготовь зубную щетку, нанеси на нее зубную пасту и нажми на зубик.</string>
+    <string name="image_teeth">Изображение зубика</string>
+    <string name="text_view_up_teeth">Чистим верхние зубки\n</string>
+    <string name="text_view_down_teeth">Чистим нижние зубки\n</string>
+    <string name="image_teeth_brush">Зубик чиститься</string>
+    <string name="text_view_message_one">Приготовили щетку и зубную пасту? Тогда нажми на зубик и начнем</string>
+    <string name="text_final_message">Спасибо тебе. Сегодня мы спасли зубки\n</string>
+    <string name="text_view_reset">Нажми на зубик</string>
+</resources>
